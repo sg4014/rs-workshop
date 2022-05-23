@@ -1,5 +1,9 @@
 Somebody once told me the world is gonna roll me
+<<<<<<< HEAD
 Changes from <main>
+Changes from <first>
+
 New changes from <main>
-Extra changes from <main>
+Extra changes from <main> (rofl)
+Lmao
 
